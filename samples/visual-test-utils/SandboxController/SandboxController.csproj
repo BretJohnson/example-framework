@@ -11,7 +11,7 @@
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0" />
     <PackageReference Include="Drastic.Tempest" Version="0.0.4" />
     <PackageReference Include="Drastic.Utilities" Version="1.0.10" />
-    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.1" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="7.0.0" />
     <PackageReference Include="Sharprompt" Version="2.4.5" />
   </ItemGroup>
