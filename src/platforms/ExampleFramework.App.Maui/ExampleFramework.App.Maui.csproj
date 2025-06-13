@@ -28,6 +28,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="build\ExampleFramework.App.Maui.props" Pack="true" PackagePath="build\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <!-- Images -->
     <MauiImage Include="Resources\IconsLight\*" />
     <MauiImage Include="Resources\IconsDark\*" TintColor="#66B3FF" />

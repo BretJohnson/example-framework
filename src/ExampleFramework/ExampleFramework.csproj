@@ -5,4 +5,8 @@
     <ImplicitUsings>disable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="build\ExampleFramework.props" Pack="true" PackagePath="build\" />
+  </ItemGroup>
+
 </Project>
