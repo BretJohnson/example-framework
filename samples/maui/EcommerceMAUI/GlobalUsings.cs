@@ -1,3 +1,3 @@
 ﻿#if EXAMPLES
-global using ExampleFramework;
+global using PreviewFramework;
 #endif

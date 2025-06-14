@@ -4,7 +4,7 @@ global using DefaultTemplateWithContent.Pages;
 global using DefaultTemplateWithContent.Services;
 global using DefaultTemplateWithContent.Utilities;
 global using Fonts;
-global using ExampleFramework;
+global using PreviewFramework;
 #if EXAMPLES
-global using static ExampleFramework.Maui.ExampleExtensions;
+global using static PreviewFramework.Maui.ExampleExtensions;
 #endif
